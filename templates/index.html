@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <title>编程文档</title>
+</head>
+<body>
+    <div class="mc">
+        {% for doc in docs %}
+            <span class="pie">
+                <a href="{{ doc.href }}" target="_blank">{{ doc.name }}</a>
+            </span>
+        {% endfor %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+def get_docs():
+    return [
+        {
+            "name": "Flask",
+            "href": "https://flask.palletsprojects.com/en/latest/"
+        }, {
+            "name": "Vue",
+            "href": "https://cn.vuejs.org/guide/introduction.html"
+        }, {
+            "name": "React",
+            "href": "https://zh-hans.reactjs.org/learn"
+        }, {
+            "name": "NodeJs",
+            "href": "https://nodejs.org/zh-cn/docs/guides"
+        }, {
+            "name": "JavaScript",
+            "href": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"
+        }, {
+            "name": "HTML",
+            "href": "https://developer.mozilla.org/zh-CN/docs/Web/HTML"
+        }, {
+            "name": "CSS",
+            "href": "https://developer.mozilla.org/zh-CN/docs/Web/CSS"
+        }, {
+            "name": "JQuery",
+            "href": "https://api.jquery.com/"
+        }, {
+            "name": "ECharts",
+            "href": "https://echarts.apache.org/handbook/zh/get-started/"
+        }, {
+            "name": "Bootstrap",
+            "href": "https://getbootstrap.com/docs/5.2/getting-started/introduction/"
+        }, {
+            "name": "TypeScript",
+            "href": "https://www.typescriptlang.org/docs/handbook/intro.html"
+        }, {
+            "name": "Babel",
+            "href": "https://www.babeljs.cn/docs/"
+        }, {
+            "name": "PHP",
+            "href": "https://www.php.net/manual/zh/"
+        }, {
+            "name": "CodeIgniter",
+            "href": "https://codeigniter.org.cn/user_guide/index.html"
+        }
+    ]

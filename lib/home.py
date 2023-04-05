@@ -42,5 +42,26 @@ def get_docs():
         }, {
             "name": "CodeIgniter",
             "href": "https://codeigniter.org.cn/user_guide/index.html"
+        }, {
+            "name": "Gunicorn",
+            "href": "https://docs.gunicorn.org/en/stable/index.html"
+        }, {
+            "name": "Nginx",
+            "href": "https://www.nginx.cn/doc/"
+        }, {
+            "name": "Mysql",
+            "href": "https://dev.mysql.com/doc/refman/8.0/en/"
+        }, {
+            "name": "Docker",
+            "href": "https://docs.docker.com/"
+        }, {
+            "name": "Sass",
+            "href": "https://sass-lang.com/documentation/style-rules"
+        }, {
+            "name": "Less",
+            "href": "https://lesscss.org/usage/"
+        }, {
+            "name": "Webpack",
+            "href": "https://webpack.js.org/concepts/"
         }
     ]
